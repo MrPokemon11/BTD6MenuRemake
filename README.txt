@@ -1,0 +1,1 @@
+The only sub-menus that function at the time of writing are the settings menu (second button from top), the chest, and Patch (the monkey in the hat). The button at the bottom left is the exit button.
